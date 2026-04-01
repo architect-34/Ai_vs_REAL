@@ -4,6 +4,7 @@ A custom Convolutional Neural Network (CNN) built from scratch using PyTorch. Th
 Project Overview
 
 The primary goal of this project was to explore the fundamentals of deep learning and computer vision without relying on pre-trained architectures (Transfer Learning). By building the model using the base torch.nn library, I gained a deeper understanding of feature extraction and the mechanics of gradient descent.
+
 Dataset
 
     Source: [Kaggle - AI vs Real Image Dataset]
